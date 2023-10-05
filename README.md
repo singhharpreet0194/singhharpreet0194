@@ -29,8 +29,8 @@
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/singhharpreet0194/"><  alt="LinkedIn"></a>&nbsp;&nbsp;
-  <a href="mailto:singhharpreet0194@gmail.com">< alt="Email"></a>
+  <a href="https://www.linkedin.com/in/singhharpreet0194/"><"LinkedIn"></a>&nbsp;&nbsp;
+  <a href="mailto:singhharpreet0194@gmail.com"><"Email"></a>
 </p>
 
 <!-- Footer Section -->
