@@ -20,22 +20,23 @@
 <h2 align="center">🛠️ Featured Projects</h2>
 
 <p align="center">
-  <a href="link_to_auto_parts_project">🚗 Auto Parts Customer Segmentation RFM</a><br>
-  <a href="link_to_market_risk_project">📊 Market Risk Analysis</a><br>
-  <a href="link_to_credit_risk_project">💳 Credit Risk Analysis</a><br>
-  <a href="link_to_grocery_store_project">🛒 Grocery Store Market Basket Analysis</a><br>
-  <a href="link_to_insurance_claims_project">🏥 Insurance Claims Storytelling</a><br>
-  <a href="link_to_wine_sales_project">🍷 Wine Sales Forecasting</a><br>
-  <a href="link_to_presidential_speech_project">🗣️ Presidential Speech Analysis</a><br>
-  <a href="link_to_election_predictive_project">🗳️ Election Predictive Model</a><br>
-  <a href="link_to_contraceptive_method_project">🌡️ Contraceptive Method Prediction</a><br>
-  <a href="link_to_cpu_usage_project">💻 CPU Usage Prediction Model</a><br>
-  <a href="link_to_pca_census_project">📊 PCA Indian Census 2011</a><br>
-  <a href="link_to_digital_ad_project">🖥️ Digital AD Clustering</a><br>
-  <a href="link_to_ecommerce_insight_project">🛒 E-Commerce Insight Exploratory Data Analysis</a><br>
-  <a href="link_to_advanced_stats_project">📊 Advanced Statistics Project</a><br>
-  <a href="link_to_drive_revamp_project">🚗 Drive Revamp: Elevating Autos Marketing Strategy</a>
+  🔧 [Auto Parts Customer Segmentation RFM](https://github.com/singhharpreet0194/Auto_Parts_Customer_Segmentation_RFM)<br>
+  📊 [Market Risk Analysis](https://github.com/singhharpreet0194/Market_Risk_Analysis)<br>
+  💳 [Credit Risk Analysis](https://github.com/singhharpreet0194/Credit_Risk_Analysis)<br>
+  🛒 [Grocery Store Market Basket Analysis](https://github.com/singhharpreet0194/Grocery_Store_Market_Basket_Analysis)<br>
+  🏥 [Insurance Claims Storytelling](https://github.com/singhharpreet0194/Insurance_Claims_Storytelling)<br>
+  🍷 [Wine Sales Forecasting](https://github.com/singhharpreet0194/Wine_Sales_Forecasting)<br>
+  🗣️ [Presidential Speech Analysis](https://github.com/singhharpreet0194/Presidential_Speech_Analysis)<br>
+  🗳️ [Election Predictive Model](https://github.com/singhharpreet0194/Election_Predictive_Model)<br>
+  🌡️ [Contraceptive Method Prediction](https://github.com/singhharpreet0194/Contraceptive_Method_Prediction)<br>
+  💻 [CPU Usage Prediction Model](https://github.com/singhharpreet0194/CPU_Usage_Prediction_Model)<br>
+  📊 [PCA Indian Census 2011](https://github.com/singhharpreet0194/PCA_Indian_Census_2011)<br>
+  🖥️ [Digital AD Clustering](https://github.com/singhharpreet0194/Digital_AD_Clustering)<br>
+  🛒 [E-Commerce Insight Exploratory Data Analysis](https://github.com/singhharpreet0194/E_Commerce_Insight_Exploratory_Data_Analysis)<br>
+  📊 [Advanced Statistics Project](https://github.com/singhharpreet0194/Advanced_Statistics_Project)<br>
+  🚗 [Drive Revamp: Elevating Autos Marketing Strategy](https://github.com/singhharpreet0194/Drive_Revamp_Elevating_Austos_Marketing_Strategy)
 </p>
+
 
 <!-- Contact Section -->
 <h2 align="center">🌐 Connect with Me</h2>
