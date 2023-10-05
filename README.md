@@ -3,7 +3,7 @@
 
 <!-- Introduction Section -->
 <p align="center">
-  <samp>In the realm of decision-making, my expertise lies in leveraging data science techniques. Armed with a PGDM in Data Science and Business Analytics from Great Learning, I am dedicated to unearthing valuable insights from intricate datasets. My primary objective is to aid companies in making informed choices, thereby optimizing the decision-making process. Together, let's translate raw data into impactful narratives and propel towards our goals with purpose! 🚀
+  <samp>"Hello! I'm Harpreet Singh, a dedicated Data Science professional with a passion for uncovering hidden insights from complex data sets. I hold a PGDM in Data Science and Business Analytics from Great Learning. I take pride in my academic achievements, and my main focus is to assist companies in decision-making, making the process smoother and more efficient. Together, let's transform raw data into compelling narratives! 🚀"
   </samp>
 </p>
 
