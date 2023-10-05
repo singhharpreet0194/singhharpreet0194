@@ -1,6 +1,6 @@
 # Hello, I'm Harpreet Singh! 👋
 
-I'm a Data Science and Business Analytics (DSBA) enthusiast, holding a PGDM from Great Learning with over 90% marks.
+I'm a Data Science and Business Analytics (DSBA) enthusiast, holding a PGDM from Great Learning.
 
 ![Data Science GIF](link_to_gif.gif)
 
