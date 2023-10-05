@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center">👨‍💻 Welcome to Harpreet Singh's GitHub! 👨‍💻</h1>
+<h1 align="center">👨‍💻 Welcome to Harpreet's GitHub! 👨‍💻</h1>
 
 <!-- Introduction Section -->
 <p align="center">
