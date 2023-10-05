@@ -4,7 +4,7 @@
 <!-- Introduction Section -->
 <p align="center">
   <samp>
-    A Data Science practitioner passionate about uncovering hidden insights from messy data. Graduate with over 90% in PGDM DSBA from Great Learning. Let's turn data into meaningful stories! 🚀
+    Hey there! I'm Harpreet Singh, a Data Science practitioner with a knack for uncovering hidden insights from messy data. I'm a proud graduate with over 90% in PGDM DSBA from Great Learning. Let's turn data into meaningful stories! 🚀
   </samp>
 </p>
 
@@ -20,17 +20,31 @@
 <h2 align="center">🛠️ Featured Projects</h2>
 
 <p align="center">
-  <a href="link_to_auto_parts_project"><  alt="Auto Parts Customer Segmentation"></a>
-  <a href="link_to_market_risk_project"><  alt="Market Risk Analysis"></a>
-  <a href="link_to_credit_risk_project">< alt="Credit Risk Analysis"></a>
+  🚗 Auto Parts Customer Segmentation RFM <br>
+  📊 Market Risk Analysis <br>
+  💳 Credit Risk Analysis <br>
+  🛒 Grocery Store Market Basket Analysis <br>
+  🏥 Insurance Claims Storytelling <br>
+  🍷 Wine Sales Forecasting <br>
+  🗣️ Presidential Speech Analysis <br>
+  🗳️ Election Predictive Model <br>
+  🌡️ Contraceptive Method Prediction <br>
+  💻 CPU Usage Prediction Model <br>
+  📊 PCA Indian Census 2011 <br>
+  🖥️ Digital AD Clustering <br>
+  🛒 E-Commerce Insight Exploratory Data Analysis <br>
+  📊 Advanced Statistics Project <br>
+  🚗 Drive Revamp: Elevating Autos Marketing Strategy
 </p>
 
 <!-- Contact Section -->
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/singhharpreet0194/"><"LinkedIn"></a>&nbsp;&nbsp;
-  <a href="mailto:singhharpreet0194@gmail.com"><"Email"></a>
+  <samp>
+    📧 [Email](mailto:singhharpreet0194@gmail.com) | 
+    💼 [LinkedIn](https://www.linkedin.com/in/singhharpreet0194/)
+  </samp>
 </p>
 
 <!-- Footer Section -->
