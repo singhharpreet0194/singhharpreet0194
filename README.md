@@ -19,9 +19,6 @@
 <!-- Projects Section -->
 <h2 align="center">🛠️ Featured Projects</h2>
 
-<!-- Projects Section -->
-<h2 align="center">🛠️ Featured Projects</h2>
-
 <table align="center">
   <tr>
     <td>🔧 <a href="https://github.com/singhharpreet0194/Auto_Parts_Customer_Segmentation_RFM">Auto Parts Customer Segmentation RFM</a></td>
