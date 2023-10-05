@@ -34,8 +34,7 @@
 
 <p align="center">
   <a href="link_to_linkedin_profile"><img src="linkedin_icon.png" width="50" alt="LinkedIn"></a>&nbsp;&nbsp;
-  <a href="link_to_twitter_profile"><img src="twitter_icon.png" width="50" alt="Twitter"></a>&nbsp;&nbsp;
-  <a href="mailto:youremail@example.com"><img src="email_icon.png" width="50" alt="Email"></a>
+  <a href="singhharpreet0194@gmail.com"><img src="email_icon.png" width="50" alt="Email"></a>
 </p>
 
 <!-- Footer Section -->
