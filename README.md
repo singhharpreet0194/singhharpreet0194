@@ -4,7 +4,7 @@
 <!-- Introduction Section -->
 <p align="center">
   <samp>
-    Hey there! I'm Harpreet Singh, a Data Science practitioner with a knack for uncovering hidden insights from messy data. I'm a proud graduate with over 90% in PGDM DSBA from Great Learning. Let's turn data into meaningful stories! 🚀
+   Hey there! I'm Harpreet Singh, a dedicated Data Science practitioner with a passion for uncovering hidden insights from complex data sets. I take pride in my academic achievements, having excelled with over 90% in PGDM Data Science and Business Analytics from Great Learning. Together, let's transform raw data into compelling narratives! 🚀
   </samp>
 </p>
 
