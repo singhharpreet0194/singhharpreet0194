@@ -20,21 +20,21 @@
 <h2 align="center">🛠️ Featured Projects</h2>
 
 <p align="center">
-  🚗 Auto Parts Customer Segmentation RFM <br>
-  📊 Market Risk Analysis <br>
-  💳 Credit Risk Analysis <br>
-  🛒 Grocery Store Market Basket Analysis <br>
-  🏥 Insurance Claims Storytelling <br>
-  🍷 Wine Sales Forecasting <br>
-  🗣️ Presidential Speech Analysis <br>
-  🗳️ Election Predictive Model <br>
-  🌡️ Contraceptive Method Prediction <br>
-  💻 CPU Usage Prediction Model <br>
-  📊 PCA Indian Census 2011 <br>
-  🖥️ Digital AD Clustering <br>
-  🛒 E-Commerce Insight Exploratory Data Analysis <br>
-  📊 Advanced Statistics Project <br>
-  🚗 Drive Revamp: Elevating Autos Marketing Strategy
+  <a href="link_to_auto_parts_project">🚗 Auto Parts Customer Segmentation RFM</a><br>
+  <a href="link_to_market_risk_project">📊 Market Risk Analysis</a><br>
+  <a href="link_to_credit_risk_project">💳 Credit Risk Analysis</a><br>
+  <a href="link_to_grocery_store_project">🛒 Grocery Store Market Basket Analysis</a><br>
+  <a href="link_to_insurance_claims_project">🏥 Insurance Claims Storytelling</a><br>
+  <a href="link_to_wine_sales_project">🍷 Wine Sales Forecasting</a><br>
+  <a href="link_to_presidential_speech_project">🗣️ Presidential Speech Analysis</a><br>
+  <a href="link_to_election_predictive_project">🗳️ Election Predictive Model</a><br>
+  <a href="link_to_contraceptive_method_project">🌡️ Contraceptive Method Prediction</a><br>
+  <a href="link_to_cpu_usage_project">💻 CPU Usage Prediction Model</a><br>
+  <a href="link_to_pca_census_project">📊 PCA Indian Census 2011</a><br>
+  <a href="link_to_digital_ad_project">🖥️ Digital AD Clustering</a><br>
+  <a href="link_to_ecommerce_insight_project">🛒 E-Commerce Insight Exploratory Data Analysis</a><br>
+  <a href="link_to_advanced_stats_project">📊 Advanced Statistics Project</a><br>
+  <a href="link_to_drive_revamp_project">🚗 Drive Revamp: Elevating Autos Marketing Strategy</a>
 </p>
 
 <!-- Contact Section -->
