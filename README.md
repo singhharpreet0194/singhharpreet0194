@@ -1,40 +1,46 @@
-# Hello, I'm Harpreet Singh! 👋
+<!-- Header Section -->
+<h1 align="center">👨‍💻 Welcome to Harpreet Singh's GitHub! 👨‍💻</h1>
 
-I'm a Data Science and Business Analytics (DSBA) enthusiast, holding a PGDM from Great Learning.
+<p align="center">
+  <img src="link_to_header_image.png" alt="Header Image">
+</p>
 
-![Data Science GIF](link_to_gif.gif)
+<!-- Introduction Section -->
+<p align="center">
+  <samp>
+    A Data Science practitioner passionate about uncovering hidden insights from messy data. Graduate with over 90% in PGDM DSBA from Great Learning. Let's turn data into meaningful stories! 🚀
+  </samp>
+</p>
 
-## About Me
+<!-- Skills Section -->
+<h2 align="center">⚡️ Skills</h2>
+<p align="center">
+  <samp>
+    Python | R | SQL | Machine Learning | Data Visualization | Statistical Analysis | Tableau | Power BI | Excel | Git
+  </samp>
+</p>
 
-I'm passionate about uncovering hidden insights from messy data and turning them into meaningful stories. My goal is to leverage data-driven strategies to solve real-world problems.
+<!-- Projects Section -->
+<h2 align="center">🛠️ Featured Projects</h2>
 
-## Projects
+<p align="center">
+  <a href="link_to_auto_parts_project"><img src="link_to_auto_parts_image.png" width="300" alt="Auto Parts Customer Segmentation"></a>
+  <a href="link_to_market_risk_project"><img src="link_to_market_risk_image.png" width="300" alt="Market Risk Analysis"></a>
+  <a href="link_to_credit_risk_project"><img src="link_to_credit_risk_image.png" width="300" alt="Credit Risk Analysis"></a>
+</p>
 
-Here are some of the projects I've worked on:
+<!-- Contact Section -->
+<h2 align="center">🌐 Connect with Me</h2>
 
-- [Auto Parts Customer Segmentation RFM](link_to_repository)
-- [Market Risk Analysis](link_to_repository)
-- [Credit Risk Analysis](link_to_repository)
-- [Grocery Store Market Basket Analysis](link_to_repository)
-- [Insurance Claims Storytelling](link_to_repository)
-- [Wine Sales Forecasting](link_to_repository)
-- [Presidential Speech Analysis](link_to_repository)
-- [Election Predictive Model](link_to_repository)
-- [Contraceptive Method Prediction](link_to_repository)
-- [CPU Usage Prediction Model](link_to_repository)
-- [PCA Indian Census 2011](link_to_repository)
-- [Digital Ad Clustering](link_to_repository)
-- [E-Commerce Insight Exploratory Data Analysis](link_to_repository)
-- [Advanced Statistics Project](link_to_repository)
-- [Drive Revamp: Elevating Autos Marketing Strategy](link_to_repository)
+<p align="center">
+  <a href="link_to_linkedin_profile"><img src="linkedin_icon.png" width="50" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="link_to_twitter_profile"><img src="twitter_icon.png" width="50" alt="Twitter"></a>&nbsp;&nbsp;
+  <a href="mailto:youremail@example.com"><img src="email_icon.png" width="50" alt="Email"></a>
+</p>
 
-Feel free to explore these projects and provide feedback!
-
-## Let's Connect
-
-You can find me on [LinkedIn](https://www.linkedin.com/in/singhharpreet0194/)  I'm always open to connecting with fellow data enthusiasts and professionals.
-
-![Connect with me GIF](link_to_gif.gif)
-
-Looking forward to new opportunities and collaborations! 🚀
-
+<!-- Footer Section -->
+<p align="center">
+  <samp>
+    Let's connect and explore exciting opportunities together!
+  </samp>
+</p>
